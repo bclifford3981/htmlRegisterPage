@@ -1,0 +1,74 @@
+body{
+    background-color: lightblue;
+    font-family:'Courier New', Courier, monospace;
+    border-style:inset;
+    border-width:1px;
+    border-color:black;
+}
+#header{
+    background-color: white;
+    font-size: 15px; 
+    padding: 30px 30px 100px 500px;
+    background-size: contain;
+    border-style:grooved;
+    border-width: 1px;
+    border-color: black;
+}
+#about-us, #register{
+    float: right; display: inline; width: 20%;
+
+}
+#about-us{
+    text-align: center;
+    background-color: rgb(61, 122, 163);
+    border-style: solid;
+    border-width: 1px;
+    height: 50px;
+    font-size: 25px;
+    color:white;
+    float: right; display: inline; width: 20%;
+    
+}
+#Register{
+    text-align: center;
+    background-color: rgb(61, 122, 163);
+    border-style: solid;
+    border-width: 1px;
+    height: 50px;  
+    right: 1500px;
+    color:white;
+    float: right; display: inline; width: 20%;
+    font-size: 25px;
+}
+#fullform{
+    position: relative;
+    float: right; width: 40%;
+    background-color: white;
+    padding: 10px;
+    font-size: 40px;
+    border-style:groove;
+    border-width: 1px;
+    padding:10px;
+    top:200px;
+}
+#signup-header{
+    text-align: center;
+    font-size: 40px;
+}
+
+.user-info{
+    text-align: center;
+
+}
+
+#submit{
+    text-align: center;
+}
+.logos{
+    left: 25px;
+    padding:10px;
+    height:50px;
+    width:50px;
+    float: right; display: inline;
+    
+}
